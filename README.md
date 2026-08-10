@@ -1,38 +1,127 @@
-Hi, I'm Mariam Salah 👋
-Front-End Developer | React.js
+# Hi, I'm Mariam Salah 👋
+
+### Front-End Developer | React.js
 
 I'm a Computer & Control Systems Engineering student passionate about building modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas and designs into clean, interactive web experiences and continuously improving my skills in Front-End Development.
+I enjoy transforming ideas and designs into interactive web experiences using modern Front-End technologies.
 
-🛠️ Technologies & Tools
-HTML5
-CSS3
-JavaScript (ES6+)
-React.js
-Bootstrap
-Material UI
-Axios
-Git & GitHub
-Vite
+---
 
-🚀 Featured Projects
+## 👩‍💻 About Me
 
-GlowCare — E-Commerce Website
-A modern skincare e-commerce application built with React, Vite, Material UI, Axios, and local JSON data.
+* 🎓 Computer & Control Systems Engineering Student
+* 💻 Focused on Front-End Development
+* ⚛️ Currently working with React.js
+* 🎨 Interested in UI/UX and Responsive Design
+* 🚀 Always learning and building new projects
 
-Movie App
-A React-based movie application using APIs to fetch and display movie data.
+---
 
-Exclusive E-commerce Website
-A modern and responsive e-commerce website built with React.js, featuring product browsing, categories, shopping cart, wishlist, authentication, and a smooth user experience.
+## 🛠️ Tech Stack
 
-📚 Currently Learning
-Advanced React.js
-Modern Front-End Development
-Clean Code & Reusable Components
-📫 Connect With Me
-LinkedIn: https://www.linkedin.com/in/mariamsalah00/
-Email: mariamsalah358@gmail.com
+### Front-End
 
-⭐ Feel free to explore my repositories and projects!
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ Exclusive E-commerce
+
+A modern e-commerce website focused on providing a smooth and responsive shopping experience.
+
+**Features:**
+
+* Product browsing
+* Categories
+* Product details
+* Shopping cart
+* Wishlist
+* Responsive design
+
+🔗 **[View Repository]https://github.com/mariamsalah00/DEPI-Graduation-Project**
+🌐 **[Live Demo]https://depi-graduation-project-wt5s-zeta.vercel.app/**
+
+---
+
+### 💄 GlowCare E-commerce
+
+A skincare e-commerce application built with React.js and modern Front-End technologies.
+
+**Technologies:**
+`React` `Vite` `Material UI` `Axios`
+
+**Features:**
+
+* Product listing
+* Search & filtering
+* Product details
+* Shopping cart
+* Wishlist
+* Authentication
+* Responsive UI
+
+🔗 **[View Repository]https://github.com/mariamsalah00/ITI-Graduation-Project**
+🌐 **[Live Demo]https://iti-graduation-project-djbl.vercel.app/**
+
+---
+
+### 🎬 Movie App
+
+A React application for browsing and exploring movies using API integration.
+
+**Technologies:**
+`React` `JavaScript` `Axios` `API`
+
+🔗 **[View Repository]https://github.com/mariamsalah00/Movie-App**
+🌐 **[Live Demo]https://movie-app-phi-orcin.vercel.app/**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/mariamsalah00/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:mariamsalah358@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📌 Currently Learning
+
+* Advanced React.js
+* Clean Code
+* Modern UI Development
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and projects.
