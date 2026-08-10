@@ -22,15 +22,28 @@ I enjoy transforming ideas and designs into interactive web experiences using mo
 
 ### Front-End
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="45" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" />
+  <img src="https://skillicons.dev/icons?i=js" width="45" />
+  <img src="https://skillicons.dev/icons?i=react" width="45" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
 </p>
 
-### Tools & Technologies
+**HTML5 · CSS3 · JavaScript · React.js · Bootstrap · Tailwind CSS**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vscode" />
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="45" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+  <img src="https://skillicons.dev/icons?i=vite" width="45" />
+  <img src="https://skillicons.dev/icons?i=figma" width="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" />
 </p>
+
+**Git · GitHub · Vite · Figma · VS Code**
 
 ---
 
