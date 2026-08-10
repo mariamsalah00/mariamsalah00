@@ -107,6 +107,12 @@ A React application for browsing and exploring movies using API integration.
 🌐 **[Live Demo]https://movie-app-phi-orcin.vercel.app/**
 
 ---
+## 📈 My GitHub Activity
+
+<p align="center">
+  <img src="https://github.com/mariamsalah00/mariamsalah00/blob/output/github-contribution-grid-snake.svg" />
+</p>
+---
 
 ## 🔗 Connect With Me
 
