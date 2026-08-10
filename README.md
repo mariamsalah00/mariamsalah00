@@ -50,6 +50,8 @@ A modern e-commerce website focused on providing a smooth and responsive shoppin
 * Responsive design
 
 🔗 **[View Repository]https://github.com/mariamsalah00/DEPI-Graduation-Project**
+
+
 🌐 **[Live Demo]https://depi-graduation-project-wt5s-zeta.vercel.app/**
 
 ---
@@ -72,6 +74,8 @@ A skincare e-commerce application built with React.js and modern Front-End techn
 * Responsive UI
 
 🔗 **[View Repository]https://github.com/mariamsalah00/ITI-Graduation-Project**
+
+
 🌐 **[Live Demo]https://iti-graduation-project-djbl.vercel.app/**
 
 ---
@@ -84,6 +88,9 @@ A React application for browsing and exploring movies using API integration.
 `React` `JavaScript` `Axios` `API`
 
 🔗 **[View Repository]https://github.com/mariamsalah00/Movie-App**
+
+
+
 🌐 **[Live Demo]https://movie-app-phi-orcin.vercel.app/**
 
 ---
@@ -91,13 +98,9 @@ A React application for browsing and exploring movies using API integration.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamsalah00&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamsalah00&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🔗 Connect With Me
