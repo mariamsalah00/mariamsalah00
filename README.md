@@ -111,16 +111,16 @@ A React application for browsing and exploring movies using API integration.
 ## 🏆 Certifications
 
 ### 🎓 Front-End Development
-**Erasoft**
+**Digital Egypt Pioneers Initiative (DEPI)**
 
-[View Certificate](https://drive.google.com/file/d/1BEwSh1tf_c-MLGMecaB7B1v9HWQ2czQJ/view?usp=drive_link)
+[View Certificate](https://drive.google.com/file/d/1HY_VNIjUr1mdg-q9i0i63mJDpTx22EaF/view?usp=drive_link)
 
 ---
 
 ### 🎓 Front-End Development
-**Digital Egypt Pioneers Initiative (DEPI)**
+**Erasoft**
 
-[View Certificate][(https://drive.google.com/file/d/1HY_VNIjUr1mdg-q9i0i63mJDpTx22EaF/view?usp=drive_link)
+[View Certificate](https://drive.google.com/file/d/1BEwSh1tf_c-MLGMecaB7B1v9HWQ2czQJ/view?usp=drive_link)
 
 ---
 
